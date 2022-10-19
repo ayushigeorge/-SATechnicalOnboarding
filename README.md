@@ -1,5 +1,5 @@
 # Future Ready Talent Project 2022
-This is the Project for the Future Ready Talent virtual internship.
+This is the Project for SA Technical Onboarding.
 
 ## Project Name: 
 # George De Couture
