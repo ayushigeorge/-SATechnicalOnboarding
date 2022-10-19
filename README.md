@@ -37,7 +37,8 @@ https://user-images.githubusercontent.com/76419649/174551689-8266996e-b522-4a34-
 
 
 # Link to Repo:
-https://github.com/ayushigeorge/futurereadytalent_project
+
+https://github.com/ayushigeorge/-SATechnicalOnboarding
 
 
 
